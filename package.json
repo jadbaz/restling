@@ -30,7 +30,7 @@
   "dependencies": {
     "bluebird": "^2.3.11",
     "lodash": "^3.2.0",
-    "restler": "^3.2.2"
+    "restler-jad": "^3.2.2"
   },
   "devDependencies": {
     "chai": "^1.9.1",

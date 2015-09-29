@@ -1,7 +1,7 @@
 'use strict';
 
 var _ = require('lodash');
-var restler = require('restler');
+var restler = require('restler-jad');
 var Promise = require('bluebird');
 
 var methods = ['request', 'get', 'post', 'put', 'del', 'head', 'patch', 'json', 'postJson', 'putJson'];

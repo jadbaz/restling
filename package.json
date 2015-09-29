@@ -1,5 +1,5 @@
 {
-  "name": "restling",
+  "name": "restling-jad",
   "version": "0.9.1",
   "description": "Restling is a lightweight Node.js module for building promise-based asynchronous HTTP requests.",
   "main": "restling.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lucasfeliciano/restling.git"
+    "url": "git://github.com/jadbaz/restling.git"
   },
   "keywords": [
     "resquest",
